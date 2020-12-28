@@ -2,11 +2,11 @@
 Python webcrawler course
 
 - Google News webcrawler example:
-  cd without-scrapy
-  python3 main.py
+  <p>cd without-scrapy</p>
+  <p>python3 main.py</p>
 
 - Pokemon webcrawler (using https://pokemondb.net website)
-  cd crawler
-  scrapy crawl pokemon
+  <p>cd crawler</p>
+  <p>scrapy crawl pokemon</p>
 
 This code is working on December of 2020
